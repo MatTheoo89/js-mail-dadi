@@ -65,3 +65,7 @@ let numUser, numPc, winner;
 
     stamp.innerText = winner;
   });
+  
+
+  
+  // ! Questo lo ho capito, sia logica che scrittura (forse troppo estesa?)
