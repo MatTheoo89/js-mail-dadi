@@ -7,3 +7,21 @@
 /* Prima di partire a scrivere codice poniamoci qualche domanda:
 Che ci sia un array da qualche parte?
 Se dobbiamo confrontare qualcosa che “cosa” ci serve? */
+
+
+
+// ! test link
+console.log('====== Sei dentro a dadi🤙 ======');
+
+// all'evento CLICK mi devi generare 2 numeri casuali (1 - 6): 1 per UTENTE 1 per PC. Poi li devi CONFRONTARE tra loro. il numero MAGGIORE sarà STAMPATO in pagina
+
+
+// evento click
+
+// generare il numero casuale per UTENTE
+
+// generare il numero casuale per PC
+
+// Confronto dei numeri casuali
+
+// stampa vincitore
